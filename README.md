@@ -10,6 +10,11 @@ A simple, modern web application demonstrating container orchestration using **D
 > Every time you refresh the page, the visit count increases and shows which backend server (`web1` or `web2`) responded — all behind a reverse proxy!
 
 ---
+## 📸 Preview
+
+![App Screenshot](compose-2.png)
+
+---
 
 ## 🧱 Tech Stack
 
@@ -22,17 +27,6 @@ A simple, modern web application demonstrating container orchestration using **D
 | UI            | Custom HTML/CSS Neon Theme |
 
 ---
-
-## 📸 Preview
-
-![App Screenshot](https://your-screenshot-url-here.com/preview.png)
-
----
-
-
-
-
-
 
 YAML
 ## 🚀 How to Run
